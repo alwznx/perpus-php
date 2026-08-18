@@ -79,6 +79,7 @@ Gunakan akun berikut untuk masuk dan menguji fitur aplikasi:
 | **Anggota** | `siswa` | `123` | Mengajukan pinjaman dan melihat riwayat pinjaman. |
 
 ## 📂 Struktur Folder ProyekProyek ini menggunakan struktur yang terorganisir untuk memisahkan logika tampilan, proses, dan otentikasi:Plaintextperpustakaan/
+
 ├── admin/                  <-- Halaman & Logika Khusus Admin
 │   ├── dashboard.php
 │   ├── buku.php            <-- CRUD Buku
@@ -96,4 +97,5 @@ Gunakan akun berikut untuk masuk dan menguji fitur aplikasi:
 ├── index.php               <-- Halaman Login
 ├── cek_login.php
 └── koneksi.php
+
 # Hak Cipta (HKI): Dibuat untuk tujuan akademik dan pengajuan HKI.
